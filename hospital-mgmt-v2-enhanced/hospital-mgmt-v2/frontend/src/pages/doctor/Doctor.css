@@ -156,7 +156,7 @@
 .stat-value { font-size: 28px; font-weight: 700; color: #f8fafc; }
 .stat-label { font-size: 13px; color: #64748b; margin-top: 2px; }
 
-/* ===== TABLE ===== */
+/* TABLE  */
 .section-card {
   background: #1e293b; border: 1px solid #334155;
   border-radius: 14px; padding: 24px; margin-bottom: 24px;
@@ -198,7 +198,7 @@
 .btn-warning { background: rgba(245,158,11,0.15); color: #fbbf24; }
 .btn-warning:hover { background: #f59e0b; color: #fff; }
 
-/* ===== FORM STYLES ===== */
+/*  FORM STYLES  */
 .form-card {
   background: #1e293b; border: 1px solid #334155;
   border-radius: 14px; padding: 28px; margin-bottom: 24px;
