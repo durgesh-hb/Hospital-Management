@@ -301,5 +301,5 @@ const DoctorSchedule = () => {
     </div>
   );
 };
-
+// doctor schedule page
 export default DoctorSchedule;
