@@ -1,4 +1,4 @@
-# 🏥 MediCare Hospital Management System  
+#  MediCare Hospital Management System  
 
 A full-stack MERN Hospital Management System with workflow-driven appointment booking, doctor verification, dynamic slot generation and role-based access control.
 
@@ -11,7 +11,7 @@ live link = https://hospital-management-gilt-nu.vercel.app/
 🔗 Frontend (User Interface):   https://hospital-management-gilt-nu.vercel.app/   
 🔗 Backend API: https://hospital-management-3-gapz.onrender.com  -->
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Home Page
 ![Home](hospital-mgmt-v2-enhanced/hospital-mgmt-v2/screenshots/home.png)
@@ -31,13 +31,13 @@ live link = https://hospital-management-gilt-nu.vercel.app/
 ### Prescription Management
 ![Prescription Management](hospital-mgmt-v2-enhanced/hospital-mgmt-v2/screenshots/doc_pris.png)
 
-## 🚀 Tech Stack
+##  Tech Stack
 - **Backend:** Node.js, Express.js, MongoDB (Mongoose), JWT
 - **Frontend:** React.js (JavaScript), React Router DOM, Axios
 
 ---
 
-## 🐳 Docker Support
+##  Docker Support
 
 Docker images are available on Docker Hub:
 
@@ -54,7 +54,7 @@ https://hub.docker.com/r/durgeshgowda/hospital-mgmt/tags
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 ### Doctor Verification Workflow
 - Doctors self-register publicly via the Doctor Portal
@@ -90,7 +90,7 @@ Admin rejects → rejected
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 hospital-mgmt/
@@ -152,7 +152,7 @@ Make sure `frontend/package.json` has:
 
 ---
 
-## 🔑 Default Credentials
+##  Default Credentials
 
 After running `node createAdmin.js`:
 
@@ -164,7 +164,7 @@ Doctors and patients register themselves through their respective portals.
 
 ---
 
-## 📡 Key API Endpoints
+##  Key API Endpoints
 
 | Method | Route | Description |
 |---|---|---|
