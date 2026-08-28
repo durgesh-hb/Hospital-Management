@@ -138,9 +138,9 @@ const DoctorAppointments = () => {
             </div>
           )}
         </div>
-      </div>
+      </div> 
     </div>
   );
 };
-
+// this is the doctor appointments page
 export default DoctorAppointments;
